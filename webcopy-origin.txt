@@ -1,0 +1,672 @@
+Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Mr+Dafoe&subset=latin%2Clatin-ext
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.3.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/mrdafoe/v14/lJwE-pIzkS5NXuMMrFijibc.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\mrdafoe\v14\lJwE-pIzkS5NXuMMrFijibc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tMMPc.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tMMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1JlEA.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1JlEA.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VGdeL.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VGdeL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVGdeL.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVGdeL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVGdeL.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVGdeL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVGdeL.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVGdeL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VGdeL.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VGdeL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVGdeL.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVGdeL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VGdeL.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VGdeL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnedw.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiEyp8kv8JHgFVrJJnedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLufntF.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiGyp8kv8JHgFVrJJLufntF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTufntF.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\poppins\v20\pxiGyp8kv8JHgFVrLPTufntF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://www.apotheker-santoro.de/
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysite\www.apotheker-santoro.de\index.htm
+Content Type: text/html
+
+Uri: https://www.apotheker-santoro.de/comments/feed/
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.apotheker-santoro.de/datenschutz/
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\datenschutz\index.htm
+Content Type: text/html
+
+Uri: https://www.apotheker-santoro.de/feed/
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.apotheker-santoro.de/impressum/
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\impressum\index.htm
+Content Type: text/html
+
+Uri: https://www.apotheker-santoro.de/kontakt/
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\kontakt\index.htm
+Content Type: text/html
+
+Uri: https://www.apotheker-santoro.de/leistungen/
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\leistungen\index.htm
+Content Type: text/html
+
+Uri: https://www.apotheker-santoro.de/ueber-mich/
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\ueber-mich\index.htm
+Content Type: text/html
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\cookie-law-info\legacy\images\td_back.gif
+Content Type: image/gif
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.1.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\cookie-law-info\legacy\public\css\cookie-law-info-gdpr.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.1.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\cookie-law-info\legacy\public\css\cookie-law-info-public.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-table.css?ver=3.1.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\cookie-law-info\legacy\public\css\cookie-law-info-table.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.1.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\cookie-law-info\legacy\public\js\cookie-law-info-public.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.14.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.14.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.14.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.14.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.14.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.20.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.20.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.20.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.20.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.20.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: 
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.20.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\elementor\assets\lib\swiper\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/ics-calendar/assets/icon-mail.svg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\ics-calendar\assets\icon-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/ics-calendar/assets/script.min.js?ver=10.11.4
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\ics-calendar\assets\script.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/ics-calendar/assets/style.min.css?ver=10.11.4
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\ics-calendar\assets\style.min.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/myour-plugin/elementor/assets/css/style.css?ver=1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\myour-plugin\elementor\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/myour-plugin/elementor/assets/js/front-end-widget.js?ver=6.3.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\myour-plugin\elementor\assets\js\front-end-widget.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-full.min.css?ver=1.8.2.2
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\wpforms-lite\assets\css\frontend\classic\wpforms-full.min.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\wpforms-lite\assets\images\submit-spin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.2.2
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/wpforms-lite/assets/js/utils.min.js?ver=1.8.2.2
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\wpforms-lite\assets\js\utils.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/wpforms-lite/assets/js/wpforms.min.js?ver=1.8.2.2
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\wpforms-lite\assets\js\wpforms.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.19.5
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\wpforms-lite\assets\lib\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\wpforms-lite\assets\lib\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\plugins\wpforms-lite\assets\lib\punycode.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour-child/style.css?ver=6.3.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour-child\style.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/css/animate.css?ver=6.3.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/css/jarallax.css?ver=6.3.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\css\jarallax.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/css/light.css?ver=6.3.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\css\light.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/css/magnific-popup.css?ver=6.3.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/css/owl.carousel.css?ver=6.3.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/fonts/font-awesome/css/font-awesome.css?ver=6.3.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\fonts\font-awesome\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\fonts\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\fonts\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\fonts\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\fonts\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\fonts\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\fonts\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/images/arrow.svg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\images\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/images/search.svg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\images\search.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/js/ajax-portfolio-content.js?ver=1.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\js\ajax-portfolio-content.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/js/isotope.pkgd.js?ver=1.0.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\js\isotope.pkgd.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/js/jarallax-element.js?ver=1.0.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\js\jarallax-element.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/js/jarallax-video.js?ver=1.0.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\js\jarallax-video.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/js/jarallax.js?ver=1.0.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\js\jarallax.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/js/magnific-popup.js?ver=1.0.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\js\magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/js/navigation.js?ver=20151215
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\js\navigation.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/js/owl.carousel.js?ver=1.0.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/js/rrssb.js?ver=1.0.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\js\rrssb.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/js/scripts.js?ver=1.0.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/js/skip-link-focus-fix.js?ver=20151215
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\js\skip-link-focus-fix.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/js/swiper.js?ver=1.0.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\js\swiper.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/js/typed.js?ver=1.0.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\js\typed.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/assets/js/velocity.min.js?ver=1.0.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\assets\js\velocity.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-content/themes/myour/style.css?ver=1.0.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\themes\myour\style.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/01/cropped-logo-4-180x180.png
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\01\cropped-logo-4-180x180.png
+Content Type: image/png
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/01/cropped-logo-4-192x192.png
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\01\cropped-logo-4-192x192.png
+Content Type: image/png
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/01/cropped-logo-4-32x32.png
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\01\cropped-logo-4-32x32.png
+Content Type: image/png
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/01/DSC00203-scaled.jpg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\01\DSC00203-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/01/DSC00237-scaled.jpg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\01\DSC00237-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/01/logo-4.png
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\01\logo-4.png
+Content Type: image/png
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/01/shopify-apple-watch-stahlarmband-1-140x140.jpg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\01\shopify-apple-watch-stahlarmband-1-140x140.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/01/shopify-apple-watch-stahlarmband-140x140.jpg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\01\shopify-apple-watch-stahlarmband-140x140.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/01/shopify-apple-watch-stahlarmband1-140x140.jpg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\01\shopify-apple-watch-stahlarmband1-140x140.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/01/Startseite-Img-scaled.jpg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysite\www.apotheker-santoro.de\wp-content\uploads\2022\01\Startseite-Img-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/02/4-140x140.jpg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\02\4-140x140.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/02/5-140x140.jpg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\02\5-140x140.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/02/6-140x140.jpg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\02\6-140x140.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/02/clo-kontakt.png
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\02\clo-kontakt.png
+Content Type: image/png
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/03/11.png
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysite\www.apotheker-santoro.de\wp-content\uploads\2022\03\11-1.png
+Content Type: image/png
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/03/12.png
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysite\www.apotheker-santoro.de\wp-content\uploads\2022\03\12-1.png
+Content Type: image/png
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/03/sabine-trautwein-140x140.jpg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\03\sabine-trautwein-140x140.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/03/shopify-apple-watch-stahlarmband1.jpg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysite\www.apotheker-santoro.de\wp-content\uploads\2022\03\shopify-apple-watch-stahlarmband1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/03/shopify-apple-watch-stahlarmband2.jpg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysite\www.apotheker-santoro.de\wp-content\uploads\2022\03\shopify-apple-watch-stahlarmband2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2022/03/shopify-apple-watch-stahlarmband3-140x140.jpg
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2022\03\shopify-apple-watch-stahlarmband3-140x140.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/2023/01/Claudio-Santoro-Lebenslauf-2023.pdf
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\2023\01\Claudio-Santoro-Lebenslauf-2023.pdf
+Content Type: application/pdf
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/elementor/css/post-1040.css?ver=1688757441
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\elementor\css\post-1040.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/elementor/css/post-1076.css?ver=1688728145
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\elementor\css\post-1076.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/elementor/css/post-143.css?ver=1688746327
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\elementor\css\post-143.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/elementor/css/post-17.css?ver=1688726396
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\elementor\css\post-17.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/elementor/css/post-312.css?ver=1688757393
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\elementor\css\post-312.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-content/uploads/elementor/css/post-985.css?ver=1688726911
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-content\uploads\elementor\css\post-985.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-includes/css/dist/block-library/style.min.css?ver=6.3.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.apotheker-santoro.de/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-includes/js/wp-util.min.js?ver=6.3.1
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://www.apotheker-santoro.de/wp-json/
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.apotheker-santoro.de/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.apotheker-santoro.de%2F
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.apotheker-santoro.de/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.apotheker-santoro.de%2F&format=xml
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.apotheker-santoro.de/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.apotheker-santoro.de%2Fdatenschutz%2F
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://www.apotheker-santoro.de/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.apotheker-santoro.de%2Fdatenschutz%2F&format=xml
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.apotheker-santoro.de/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.apotheker-santoro.de%2Fimpressum%2F
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://www.apotheker-santoro.de/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.apotheker-santoro.de%2Fimpressum%2F&format=xml
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://www.apotheker-santoro.de/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.apotheker-santoro.de%2Fkontakt%2F
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.apotheker-santoro.de/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.apotheker-santoro.de%2Fkontakt%2F&format=xml
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.apotheker-santoro.de/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.apotheker-santoro.de%2Fleistungen%2F
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.apotheker-santoro.de/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.apotheker-santoro.de%2Fleistungen%2F&format=xml
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.apotheker-santoro.de/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.apotheker-santoro.de%2Fueber-mich%2F
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.apotheker-santoro.de/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.apotheker-santoro.de%2Fueber-mich%2F&format=xml
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.apotheker-santoro.de/wp-json/wp/v2/pages/1040
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\wp\v2\pages\1040
+Content Type: application/json
+
+Uri: https://www.apotheker-santoro.de/wp-json/wp/v2/pages/1076
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\wp\v2\pages\1076
+Content Type: application/json
+
+Uri: https://www.apotheker-santoro.de/wp-json/wp/v2/pages/1208
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\wp\v2\pages\1208
+Content Type: application/json
+
+Uri: https://www.apotheker-santoro.de/wp-json/wp/v2/pages/143
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\wp\v2\pages\143
+Content Type: application/json
+
+Uri: https://www.apotheker-santoro.de/wp-json/wp/v2/pages/312
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\wp\v2\pages\312
+Content Type: application/json
+
+Uri: https://www.apotheker-santoro.de/wp-json/wp/v2/pages/985
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\wp-json\wp\v2\pages\985
+Content Type: application/json
+
+Uri: https://www.apotheker-santoro.de/xmlrpc.php?rsd
+File Name: C:\Users\stree\OneDrive\Desktop\IBrahimswebsite\copysiteqqq\www.apotheker-santoro.de\xmlrpc.php
+Content Type: text/xml
+
